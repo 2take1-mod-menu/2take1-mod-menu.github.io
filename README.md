@@ -1,5 +1,5 @@
 <link rel="shortcut icon" type="image/png" 
-      href="{{ "[/assets/images/favicon.png](https://github.com/2take1-mod-menu/2take1-mod-menu.github.io/blob/main/2take1-menu-icon.png?raw=true)"  | absolute_url }}">
+      href="{{ "https://github.com/2take1-mod-menu/2take1-mod-menu.github.io/blob/main/2take1-menu-icon.png?raw=true"  | absolute_url }}">
 
 # 2Take1 Mod Menu
 
